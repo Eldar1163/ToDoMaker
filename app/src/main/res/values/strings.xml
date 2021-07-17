@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToDoMaker</string>
+    <string name="your_tasks">Ваши задачи</string>
+    <string name="add_new_task_btn_text">+</string>
+    <string name="delete_btn_text">del</string>
+    <string name="enter_info">Заполните информацию</string>
+    <string name="add_btn_text">Добавить</string>
+</resources>
